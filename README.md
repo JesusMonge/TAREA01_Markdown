@@ -23,3 +23,5 @@ Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. 
 
 Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. [https://doi.org/10.1186/s13059-016-1044-7](https://doi.org/10.1186/s13059-016-1044-7)
 
+
+#### Tarea01_Markdown Jesús Monge
